@@ -1,0 +1,14 @@
+﻿  cnn.h
+  client.cpp
+  nn.h
+  正在生成代码...
+E:\proj\network\factory_impl.h(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“client.cpp”)
+  
+E:\proj\network\factory_impl.h(3,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“client.cpp”)
+  
+E:\proj\network\factory_impl.h(4,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“client.cpp”)
+  
+  network.vcxproj -> E:\proj\Project1\x64\Debug\network.exe

@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\proj\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60A079C7-A93E-4D33-ACFB-AEA7A43DC731}|..\\network\\network.vcxproj|E:\\proj\\network\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A079C7-A93E-4D33-ACFB-AEA7A43DC731}|..\\network\\network.vcxproj|E:\\proj\\network\\rnn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A079C7-A93E-4D33-ACFB-AEA7A43DC731}|..\\network\\network.vcxproj|E:\\proj\\network\\nn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A079C7-A93E-4D33-ACFB-AEA7A43DC731}|..\\network\\network.vcxproj|E:\\proj\\network\\factory_impl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A079C7-A93E-4D33-ACFB-AEA7A43DC731}|..\\network\\network.vcxproj|E:\\proj\\network\\factory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A079C7-A93E-4D33-ACFB-AEA7A43DC731}|..\\network\\network.vcxproj|E:\\proj\\network\\cnn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A079C7-A93E-4D33-ACFB-AEA7A43DC731}|..\\network\\network.vcxproj|E:\\proj\\network\\dnn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8164946-3005-4F37-A5E3-9117D48BCC96}|Project1.vcxproj|E:\\proj\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8164946-3005-4F37-A5E3-9117D48BCC96}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "factory_impl.h",
+              "DocumentMoniker": "E:\\proj\\network\\factory_impl.h",
+              "RelativeDocumentMoniker": "..\\network\\factory_impl.h",
+              "ToolTip": "E:\\proj\\network\\factory_impl.h",
+              "RelativeToolTip": "..\\network\\factory_impl.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T03:48:02.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "factory.h",
+              "DocumentMoniker": "E:\\proj\\network\\factory.h",
+              "RelativeDocumentMoniker": "..\\network\\factory.h",
+              "ToolTip": "E:\\proj\\network\\factory.h",
+              "RelativeToolTip": "..\\network\\factory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T03:43:52.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rnn.h",
+              "DocumentMoniker": "E:\\proj\\network\\rnn.h",
+              "RelativeDocumentMoniker": "..\\network\\rnn.h",
+              "ToolTip": "E:\\proj\\network\\rnn.h",
+              "RelativeToolTip": "..\\network\\rnn.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T03:39:44.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dnn.h",
+              "DocumentMoniker": "E:\\proj\\network\\dnn.h",
+              "RelativeDocumentMoniker": "..\\network\\dnn.h",
+              "ToolTip": "E:\\proj\\network\\dnn.h",
+              "RelativeToolTip": "..\\network\\dnn.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T03:30:48.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cnn.h",
+              "DocumentMoniker": "E:\\proj\\network\\cnn.h",
+              "RelativeDocumentMoniker": "..\\network\\cnn.h",
+              "ToolTip": "E:\\proj\\network\\cnn.h",
+              "RelativeToolTip": "..\\network\\cnn.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T03:30:25.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client.cpp",
+              "DocumentMoniker": "E:\\proj\\network\\client.cpp",
+              "RelativeDocumentMoniker": "..\\network\\client.cpp",
+              "ToolTip": "E:\\proj\\network\\client.cpp",
+              "RelativeToolTip": "..\\network\\client.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T03:25:23.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nn.h",
+              "DocumentMoniker": "E:\\proj\\network\\nn.h",
+              "RelativeDocumentMoniker": "..\\network\\nn.h",
+              "ToolTip": "E:\\proj\\network\\nn.h",
+              "RelativeToolTip": "..\\network\\nn.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T13:47:21.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\proj\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\proj\\Project1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T12:26:24.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
