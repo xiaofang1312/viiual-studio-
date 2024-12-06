@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="cnn.h" />
     <ClCompile Include="client.cpp" />
+    <ClCompile Include="factory_impl.cpp" />
     <ClCompile Include="nn.h" />
   </ItemGroup>
   <ItemGroup>

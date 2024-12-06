@@ -3,7 +3,7 @@
 #include "factory_impl.h"
 
 #include <iostream>
-
+using namespace::std;
 int main()
 {
 	int ret = 0;
